@@ -1,0 +1,18 @@
+pip install imgaug
+pip install numpy scipy h5py
+pip install scikit-learn
+pip install tensorflow-gpu
+pip install opencv-contrib-python
+pip install keras-resnet
+pip install keras==2.1.3
+pip install tqdm
+
+# Install Retinanet
+
+1)Download :https://github.com/fizyr/keras-retinanet
+2)cd keras-retinanet
+3)python setup.py build_ext --inplace
+
+# Install cudnn and cuda
+follow below link
+https://www.codingforentrepreneurs.com/blog/install-tensorflow-gpu-windows-cuda-cudnn(cudn)

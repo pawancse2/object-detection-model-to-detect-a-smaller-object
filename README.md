@@ -2,9 +2,7 @@
 Development of object detection model to detect a smaller object/s in a given image.
 
 
-RealImage:
-![Image_Before_Prediction](https://github.com/pawancse2/object-detection-model-to-detect-a-smaller-object/blob/master/Image/38340.PNG)
-
+For Detailed Description kindly follow attached document "Project_Report_For_Small_object_detection_By_Pawan_Kumar.docx"
 
 
 Predicted Image:

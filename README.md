@@ -6,7 +6,7 @@ For Deatiled Description kindly refer attached [ProjectReport](https://github.co
 
 
 Actual Image:
-![Image_After_Prediction](https://github.com/pawancse2/object-detection-model-to-detect-a-smaller-object/blob/master/Image/38340.PNG)
+![Image_Before_Prediction](https://github.com/pawancse2/object-detection-model-to-detect-a-smaller-object/blob/master/Image/ImgaeBeforePrediction.PNG)
 
 
 Predicted Image after Training:

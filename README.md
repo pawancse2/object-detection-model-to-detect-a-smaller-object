@@ -12,7 +12,7 @@ Actual Image:
 
 
 Predicted Image after Training:
-![Image_After_Prediction](https://github.com/pawancse2/object-detection-model-to-detect-a-smaller-object/blob/master/Image/PredictedImage.PNG)
+![Image_After_Prediction](https://github.com/pawancse2/object-detection-model-to-detect-a-smaller-object/blob/master/Image/PredictedImage.png)
 
 
 
